@@ -7,6 +7,7 @@
     - annual income
     - Q factors
     - What campaigns they signed up from
+    - macro interest rates
 - Fit distribution on account closing (log rank test)
     - look at how to extend time to 18mths
     TODO:
@@ -16,4 +17,5 @@
         3. 
 
 
-
+# After meeting thoughts
+- look at proportion of refinancing changing in time
